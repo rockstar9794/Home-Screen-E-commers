@@ -1,6 +1,9 @@
-# intro_screen
+# New Home Page
 
-A new Flutter project.
+A new Home Page Screen in Flutter project.
+
+![Screenshot_1666038115](https://user-images.githubusercontent.com/55742347/196292682-ae857d53-7c3d-4c99-8c4e-2c56694f3830.png)
+
 
 ## Getting Started
 
